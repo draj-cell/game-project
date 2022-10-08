@@ -1,7 +1,6 @@
 # game-project
-game on javascript
-test
+JavaScript Game Development Course for Beginners
 
 ## Subheader
 
-New changes.
+Project Nr.1. Vanilla Javascript sprite animation techniques.
